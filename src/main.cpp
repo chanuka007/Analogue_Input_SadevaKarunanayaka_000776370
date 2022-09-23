@@ -1,5 +1,7 @@
 #include <Arduino.h>
-
+//I, Sadeva Chanuka Karunanayaka, student number 000776370, certify that all code submitted is my own work;
+//that I have not copied it from any other source.  I also certify that I have not allowed my work to be copied by others.
+ 
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(115200); 
